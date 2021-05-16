@@ -7,3 +7,14 @@ body {
 .container {
   max-width: 400px;
 }
+
+.icon {
+  position: relative;
+  text-align: center;
+  top: -50px;
+  left: 135px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+  background: rgb(228, 226, 226);
+}
